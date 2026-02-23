@@ -1,0 +1,72 @@
+﻿
+> medical-cleaner@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 86 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 485ms
+At line:1 char:1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: ([31mΓ£ù[   
+ 39m Build failed     
+in 485ms:String)     
+[], RemoteExcepti    
+on
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+[31merror during 
+build:
+[31mCould not 
+resolve "./value/use-w
+ill-change/WillChangeM
+otionValue.mjs" from "
+node_modules/framer-mo
+tion/dist/es/index.mjs
+"[31m
+file: [36mC:/Users/ne
+vesh/Desktop/minor/jso
+n to clean/node_module
+s/framer-motion/dist/e
+s/index.mjs[31m
+    at getRollupError 
+(file:///C:/Users/neve
+sh/Desktop/minor/json%
+20to%20clean/node_modu
+les/rollup/dist/es/sha
+red/parseAst.js:402:41
+)
+    at error (file:///
+C:/Users/nevesh/Deskto
+p/minor/json%20to%20cl
+ean/node_modules/rollu
+p/dist/es/shared/parse
+Ast.js:398:42)
+    at ModuleLoader.ha
+ndleInvalidResolvedId 
+(file:///C:/Users/neve
+sh/Desktop/minor/json%
+20to%20clean/node_modu
+les/rollup/dist/es/sha
+red/node-entry.js:2168
+7:24)
+    at file:///C:/User
+s/nevesh/Desktop/minor
+/json%20to%20clean/nod
+e_modules/rollup/dist/
+es/shared/node-entry.j
+s:21647:26[39m

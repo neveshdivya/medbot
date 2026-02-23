@@ -1,0 +1,128 @@
+﻿
+> medical-cleaner@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 391 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 959ms
+At line:1 char:1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: ([31mΓ£ù[   
+ 39m Build failed     
+in 959ms:String)     
+[], RemoteExcepti    
+on
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+[31merror during 
+build:
+[31msrc/App.jsx 
+(8:2): 
+"LuCheckCircle2" is 
+not exported by "node_
+modules/react-icons/lu
+/index.mjs", imported 
+by "src/App.jsx".[31m
+file: [36mC:/Users/ne
+vesh/Desktop/minor/jso
+n to clean/src/App.jsx
+:8:2[31m
+[33m
+ 6:   LuFileText as 
+FileText,
+ 7:   LuClipboard as 
+Clipboard,
+ 8:   LuCheckCircle2 
+as CheckCircle2,
+      ^
+ 9:   LuUser as User,
+10:   LuStethoscope 
+as Stethoscope,
+[31m
+    at getRollupError 
+(file:///C:/Users/neve
+sh/Desktop/minor/json%
+20to%20clean/node_modu
+les/rollup/dist/es/sha
+red/parseAst.js:402:41
+)
+    at error (file:///
+C:/Users/nevesh/Deskto
+p/minor/json%20to%20cl
+ean/node_modules/rollu
+p/dist/es/shared/parse
+Ast.js:398:42)
+    at Module.error (f
+ile:///C:/Users/nevesh
+/Desktop/minor/json%20
+to%20clean/node_module
+s/rollup/dist/es/share
+d/node-entry.js:17040:
+16)
+    at 
+Module.traceVariable (
+file:///C:/Users/neves
+h/Desktop/minor/json%2
+0to%20clean/node_modul
+es/rollup/dist/es/shar
+ed/node-entry.js:17452
+:29)
+    at ModuleScope.fin
+dVariable (file:///C:/
+Users/nevesh/Desktop/m
+inor/json%20to%20clean
+/node_modules/rollup/d
+ist/es/shared/node-ent
+ry.js:15070:39)
+    at FunctionScope.f
+indVariable (file:///C
+:/Users/nevesh/Desktop
+/minor/json%20to%20cle
+an/node_modules/rollup
+/dist/es/shared/node-e
+ntry.js:5673:38)
+    at FunctionBodySco
+pe.findVariable (file:
+///C:/Users/nevesh/Des
+ktop/minor/json%20to%2
+0clean/node_modules/ro
+llup/dist/es/shared/no
+de-entry.js:5673:38)
+    at 
+Identifier.bind (file:
+///C:/Users/nevesh/Des
+ktop/minor/json%20to%2
+0clean/node_modules/ro
+llup/dist/es/shared/no
+de-entry.js:5447:40)
+    at 
+CallExpression.bind (f
+ile:///C:/Users/nevesh
+/Desktop/minor/json%20
+to%20clean/node_module
+s/rollup/dist/es/share
+d/node-entry.js:2825:2
+8)
+    at 
+CallExpression.bind (f
+ile:///C:/Users/nevesh
+/Desktop/minor/json%20
+to%20clean/node_module
+s/rollup/dist/es/share
+d/node-entry.js:12179:
+15)[39m
