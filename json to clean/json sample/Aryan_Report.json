@@ -1,0 +1,36 @@
+{
+    "SOAP_note": {
+        "S": {
+            "chief_complaint": "Cough and shortness of breath (SOB).",
+            "history_of_present_illness": {
+                "cough_details": "Patient reports coughing with production of green phlegm.",
+                "dyspnea_details": "Shortness of breath occurs only when walking; patient denies dyspnea at rest. Patient reports ability to sleep normally, denying orthopnea.",
+                "onset_duration_severity": "Onset, duration, and severity are not specified in the transcript.",
+                "associated_symptoms": "Green phlegm is the only associated symptom explicitly mentioned."
+            },
+            "past_medical_history": "Patient denies a history of asthma or COPD.",
+            "social_history": "Patient denies a history of smoking."
+        },
+        "O": {
+            "vitals": "Not documented in the transcript.",
+            "physical_exam": "Not documented in the transcript.",
+            "diagnostic_results": "Not documented in the transcript."
+        },
+        "A": {
+            "problem_list": [
+                "Acute cough, productive with green phlegm.",
+                "Exertional dyspnea."
+            ],
+            "preliminary_assessment": "Based on reported symptoms, the patient presents with an acute respiratory issue characterized by productive cough with green phlegm and exertional dyspnea. The absence of dyspnea at rest, orthopnea, and known history of asthma/COPD/smoking suggests an acute process, possibly an infection such as bronchitis. Further evaluation is required to differentiate from other respiratory conditions like pneumonia.",
+            "ruling_out": "Pneumonia, acute exacerbation of underlying chronic lung disease (less likely given denial of history)."
+        },
+        "P": {
+            "recommendations": [
+                "Urgent in-person medical evaluation for a comprehensive physical examination, including vital signs and lung auscultation.",
+                "Consider further diagnostic workup, such as Chest X-ray to rule out pneumonia, and potentially sputum culture if indicated by clinical picture.",
+                "Symptomatic management for cough and dyspnea as guided by a physician."
+            ],
+            "education": "Advise patient to monitor for worsening symptoms (e.g., increased difficulty breathing, fever, chest pain) and seek immediate medical attention if they occur."
+        }
+    }
+}

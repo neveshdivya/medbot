@@ -1,0 +1,37 @@
+{
+  "SOAP_note": {
+    "S": {
+      "chief_complaint": "Increased thirst and frequent urination.",
+      "history_of_present_illness": {
+        "symptom_details": "Patient reports drinking nearly 2 gallons of water daily and waking up 4 times a night to urinate.",
+        "fatigue_details": "Significant lethargy over the past month, even after 8 hours of sleep.",
+        "onset_duration_severity": "Symptoms have gradually progressed over the last 6 weeks.",
+        "associated_symptoms": "Blurred vision and a 5lb unintentional weight loss."
+      },
+      "past_medical_history": "History of hypertension and high cholesterol.",
+      "social_history": "Sedentary lifestyle; family history of Type 2 Diabetes (Father)."
+    },
+    "O": {
+      "vitals": "BMI: 32.5 (Obese), BP: 145/90, HR: 82.",
+      "physical_exam": "Dry mucous membranes. Skin exam shows acanthosis nigricans (darkening) around the posterior neck.",
+      "diagnostic_results": "Point-of-care fingerstick glucose: 245 mg/dL (Random)."
+    },
+    "A": {
+      "problem_list": [
+        "Hyperglycemia.",
+        "Polyuria and polydipsia.",
+        "Unintentional weight loss."
+      ],
+      "preliminary_assessment": "Clinical presentation and random glucose reading strongly suggest New-Onset Type 2 Diabetes Mellitus. Symptoms of blurred vision and weight loss indicate a state of significant insulin resistance/deficiency.",
+      "ruling_out": "Diabetes Insipidus, Urinary Tract Infection (UTI)."
+    },
+    "P": {
+      "recommendations": [
+        "Order Hemoglobin A1c, Fasting Plasma Glucose, and Basic Metabolic Panel (BMP).",
+        "Urinalysis to check for ketones and glucose.",
+        "Referral to a registered dietitian for medical nutrition therapy."
+      ],
+      "education": "Educated patient on the importance of hydration with water (avoiding sugary drinks) and the need for immediate follow-up if vomiting or confusion occurs."
+    }
+  }
+}

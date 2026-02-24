@@ -1,0 +1,36 @@
+{
+  "SOAP_note": {
+    "S": {
+      "chief_complaint": "Recurring dull headache.",
+      "history_of_present_illness": {
+        "headache_details": "Patient describes a 'tight band' sensation around the head. Does not include throbbing or pulsing.",
+        "triggers": "Reports increased stress at work and long hours staring at a computer screen.",
+        "onset_duration_severity": "Lasts 4-6 hours; occurs 3 times per week. Severity 4/10.",
+        "associated_symptoms": "Neck stiffness. Denies nausea, vomiting, or sensitivity to light/sound."
+      },
+      "past_medical_history": "Occasional tension headaches in the past; no history of migraines.",
+      "social_history": "Works as a software engineer; drinks 4 cups of coffee daily."
+    },
+    "O": {
+      "vitals": "BP: 120/80, HR: 70.",
+      "physical_exam": "Tenderness noted in the bilateral trapezius and paraspinal neck muscles. Neurological exam (CN II-XII) is intact. No focal deficits.",
+      "diagnostic_results": "No imaging indicated at this time."
+    },
+    "A": {
+      "problem_list": [
+        "Chronic tension-type headache.",
+        "Cervical muscle strain."
+      ],
+      "preliminary_assessment": "The 'band-like' distribution and lack of migraine features (nausea/photophobia) point to Tension-Type Headache. Likely exacerbated by poor ergonomics and high caffeine intake.",
+      "ruling_out": "Migraine without aura, Caffeine withdrawal headache, Cluster headache."
+    },
+    "P": {
+      "recommendations": [
+        "Acetaminophen 500mg as needed at onset of symptoms.",
+        "Ergonomic assessment of workstation.",
+        "Gradual reduction of daily caffeine intake."
+      ],
+      "education": "Advised on stress management techniques and '20-20-20' rule for screen time (every 20 mins, look 20 feet away for 20 seconds)."
+    }
+  }
+}

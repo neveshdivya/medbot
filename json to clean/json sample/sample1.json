@@ -1,0 +1,36 @@
+{
+  "SOAP_note": {
+    "S": {
+      "chief_complaint": "Right ankle pain and swelling following a fall.",
+      "history_of_present_illness": {
+        "injury_details": "Patient tripped over a curb while jogging 2 hours ago. Reports an 'inversion' injury (rolled ankle inward).",
+        "pain_details": "Sharp, localized pain over the outer ankle. Patient is unable to bear full weight.",
+        "onset_duration_severity": "Acute onset; pain is currently 7/10.",
+        "associated_symptoms": "Immediate swelling and visible bruising."
+      },
+      "past_medical_history": "Denies previous ankle fractures or surgeries.",
+      "social_history": "Active runner, non-smoker."
+    },
+    "O": {
+      "vitals": "BP: 128/82, HR: 74, Temp: 98.6°F.",
+      "physical_exam": "Significant edema and ecchymosis over the lateral malleolus. Tenderness present at the anterior talofibular ligament (ATFL). No bony tenderness over the base of the 5th metatarsal.",
+      "diagnostic_results": "X-ray of the right ankle: Pending."
+    },
+    "A": {
+      "problem_list": [
+        "Acute right ankle inversion injury.",
+        "Inability to bear weight."
+      ],
+      "preliminary_assessment": "Presentation is highly suggestive of a Grade II lateral ankle sprain. While the Ottawa Ankle Rules are borderline due to weight-bearing difficulty, the lack of midfoot bone tenderness makes a fracture less likely but still requires exclusion.",
+      "ruling_out": "Lateral malleolus fracture, syndesmotic (high ankle) sprain."
+    },
+    "P": {
+      "recommendations": [
+        "RICE protocol: Rest, Ice (20 mins on/off), Compression with ACE wrap, Elevation.",
+        "Pharmacological: Ibuprofen 400mg every 6 hours as needed for pain and inflammation.",
+        "Non-weight bearing until X-ray results are confirmed."
+      ],
+      "education": "Instructed patient on the proper use of crutches and to watch for signs of neurovascular compromise (numbness or blue toes)."
+    }
+  }
+}
